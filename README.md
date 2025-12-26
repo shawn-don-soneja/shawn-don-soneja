@@ -1,4 +1,9 @@
-## Hi there 👋
+# Welcome!
+
+Please feel free to peruse any of my work below. If you'd like to see my portfolio site, you can find that here: <a href="https://shawnsoneja.com" target="_blank">shawnsoneja.com</a>
+
+Appreciate you dropping by,<br/>
+Shawn
 
 <!--
 **shawn-don-soneja/shawn-don-soneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
