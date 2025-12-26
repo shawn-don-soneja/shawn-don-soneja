@@ -1,0 +1,67 @@
+{
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "githubPullRequests.fileListLayout": "flat",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "githubPullRequests.pullBranch": "never",
+    "editor.fontFamily": "Consolas, \"Courier New\", monospace",
+    "window.zoomLevel": 1,
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "chatgpt.lang": "en",
+    "window.menuBarVisibility": "compact",
+    "editor.codeActionsOnSave": {},
+    "terminal.integrated.fontFamily": "Fira Code, Cascadia Code, Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.minimumContrastRatio": 4.5,
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    "terminal.integrated.enablePersistentSessions": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.minimap.enabled": true,
+    "json.format.keepLines": true,
+    "editor.insertSpaces": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+     "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "csv.enabled": true,
+    // Restores Zen Mode when VS Code is reopened
+    "zenMode.restore": true,
+
+    // Prevents going into actual full screen, keeping window controls visible
+    "zenMode.fullScreen": false,
+
+    // Prevents centering the editor, using the full width of the window
+    //"zenMode.centerLayout": false,
+
+    // Control visibility of other UI elements in Zen Mode
+    "zenMode.hideActivityBar": true,
+    "zenMode.hideStatusBar": true,
+    "zenMode.showTabs": "multiple", // or "none" or "single"
+    "zenMode.silentNotifications": true,
+    "workbench.startupEditor": "none",
+}
