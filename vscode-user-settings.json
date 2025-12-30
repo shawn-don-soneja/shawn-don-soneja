@@ -35,7 +35,7 @@
         "markdown": false,
         "scminput": false
     },
-    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "workbench.iconTheme": "ayu",
     "gitlens.ai.model": "vscode",
     "gitlens.ai.vscode.model": "copilot:gpt-4.1",
      "[json]": {
@@ -56,7 +56,7 @@
     "zenMode.fullScreen": false,
 
     // Prevents centering the editor, using the full width of the window
-    //"zenMode.centerLayout": false,
+    "zenMode.centerLayout": true,
 
     // Control visibility of other UI elements in Zen Mode
     "zenMode.hideActivityBar": true,
@@ -64,4 +64,6 @@
     "zenMode.showTabs": "multiple", // or "none" or "single"
     "zenMode.silentNotifications": true,
     "workbench.startupEditor": "none",
+    "chat.viewSessions.orientation": "stacked",
+    "zenMode.hideLineNumbers": false,
 }
