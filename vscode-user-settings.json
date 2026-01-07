@@ -9,8 +9,7 @@
         "editor.formatOnType": true
     },
     "githubPullRequests.pullBranch": "never",
-    "editor.fontFamily": "Consolas, \"Courier New\", monospace",
-    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
     "accessibility.signals.lineHasBreakpoint": {
         "sound": "off",
         "announcement": "off"
@@ -35,7 +34,7 @@
         "markdown": false,
         "scminput": false
     },
-    "workbench.iconTheme": "ayu",
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
     "gitlens.ai.model": "vscode",
     "gitlens.ai.vscode.model": "copilot:gpt-4.1",
      "[json]": {
