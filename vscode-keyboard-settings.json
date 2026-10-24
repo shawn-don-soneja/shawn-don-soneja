@@ -4,5 +4,18 @@
         "key": "cmd+shift+g",          
         "command": "workbench.view.scm",
         "when": "workbench.scm.active" 
+    },
+
+    // Enables Ctrl + Cmd + Opt + F to filter for file name, if left sidebar of VS Code
+    {
+        "key": "ctrl+alt+cmd+f",
+        "command": "list.find",
+        "when": "listFocus && listSupportsFind"
+    },
+    // Removes the original binding for file name filtering (I have it overridden by a different app rn)
+    {
+        "key": "alt+cmd+f",
+        "command": "-list.find",
+        "when": "listFocus && listSupportsFind"
     }
 ]
